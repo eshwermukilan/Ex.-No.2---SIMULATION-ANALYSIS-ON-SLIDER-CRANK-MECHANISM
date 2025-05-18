@@ -1,6 +1,5 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
-
-## DATE: 
+# Ex. No. 02 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+## DATE: 18-05-2025
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -28,6 +27,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
 
 
+
 ## Velocity diagram
 ###  Scale: 10 m/s = 100 mm (say) 
 ###  1. The fixed point C appears as a stationary point in the velocity diagram 
@@ -37,17 +37,16 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![{73C43368-79EF-477A-A426-BCD22113D028}](https://github.com/user-attachments/assets/cee87bdf-02fe-4731-b74a-4fdd2136e64a)
+
+![{0BE15B85-B622-4BE9-AC64-CE4FAC3202FD}](https://github.com/user-attachments/assets/8d9406bb-56cb-4e0c-a808-be148a949b9e)
 
 
-### Name:
-### Register Number: 
+
+### Name: ESHWER M
+### Register Number: 212224040086
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
